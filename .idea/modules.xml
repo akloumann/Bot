@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Bots.iml" filepath="$PROJECT_DIR$/.idea/Bots.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ChatBackup/.idea/ChatBackup.iml" filepath="$PROJECT_DIR$/../ChatBackup/.idea/ChatBackup.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ChatWithDB/.idea/ChatWithDB.iml" filepath="$PROJECT_DIR$/../ChatWithDB/.idea/ChatWithDB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../TPR_3/.idea/TPR_3.iml" filepath="$PROJECT_DIR$/../TPR_3/.idea/TPR_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Testss/.idea/Testss.iml" filepath="$PROJECT_DIR$/../Testss/.idea/Testss.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../twitchBot3/.idea/twitchBot3.iml" filepath="$PROJECT_DIR$/../twitchBot3/.idea/twitchBot3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../untitled1/.idea/untitled1.iml" filepath="$PROJECT_DIR$/../untitled1/.idea/untitled1.iml" />
+    </modules>
+  </component>
+</project>
